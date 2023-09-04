@@ -1,0 +1,22 @@
+.education {
+   
+    padding-left: 170px;
+    margin-top: 60px ; 
+    background-color: rgba(128, 128, 128, 0.11);
+    
+  }
+.education hr{
+color: blue;
+width:400px;
+margin: 10px auto;
+}
+.education h2{
+    font-weight: bold;
+    color: blue ;
+}
+.vertical-timeline-element--work{
+    margin-left: 170px;
+}
+.vertical-timeline-element-title{
+    color: blue ;
+}

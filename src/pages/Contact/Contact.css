@@ -1,0 +1,44 @@
+.contact{
+    margin-left: 190px;
+    margin-bottom: 60px;
+    padding-top: 50px;
+    width: 180px 280px;
+    
+}
+.card0{
+    box-shadow: 0px 4px 8px 0px #757575;
+    border-radius: 0px;
+
+}
+.card2 {
+    margin: 0px 40px;;
+
+}
+.card1 .image{
+    padding: 30px;
+    margin-top: 30px;
+    height: 80%;
+    width: 80%;
+    margin-left: 130px;
+   
+}
+.elements{
+    margin-right: 150px;
+    margin-top: 60px;
+}
+.button:focus{
+    box-shadow: none;
+    outline-width: 0px;
+}
+.button{
+    background-color: blue;
+    color: white;
+    border-radius: 2px;
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+
